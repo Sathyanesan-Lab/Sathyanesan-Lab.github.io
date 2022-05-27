@@ -1,0 +1,55 @@
+---
+title: "Research"
+---
+<section id="theme-overview">
+  <div class="splash-header">
+    <div class="splash-block">
+      <h2>Cerebellar circuits in neurodevelopmental disorders</h2>
+      <p>The big idea guiding our work is: Proper cerebellar development and circuit maturation ensures precise control of motor and non-motor behaviors at later stages.</p>
+      <p>Conversely: Altered cerebellar development due to early injury or genetic aberrations lead to atypical motor and non-motor behavior at later stages.</p>
+    </div>
+    <div class="splash-image">
+      <img src="theme-full.svg" />
+    </div>
+  </div>
+</section>
+
+<section id="down-syndrome">
+  <div class="splash-header">
+    <div class="splash-block">
+      <h2>Neural basis of locomotor dysfunction in Down Syndrome</h2>
+      <p>Down syndrome (DS) is one of the most commonly diagnosed chromosomal conditions across the world. People with DS have atypical behaviors across different domains including the motor domain. However, the precise mechanism by which motor dysfunction occurs in DS remains unknown.</p>
+      <p>We are actively working on the neural basis of locomotor dysfunction in DS using a combination of advanced behavioral and <i>in vivo</i> optical tools in mouse models of DS.</p>
+    </div>
+    <div class="splash-image">
+      <img src="ds-aav.svg" />
+      <img src="erladd-fp.svg" />
+    </div>
+  </div>
+</section>
+
+<section id="injury">
+  <div class="splash-header">
+    <div class="splash-block">
+      <h2>Neonatal brain injury and the cerebellar connectome</h2>
+      <p>The developing cerebellum is particularly vulnerable to injury. A prevailing idea in the field is that injury to the cerebellum leads to long-term behavioral abnormalities due to disrupted connections between the cerebellum and the cortex</p>
+      <p>Our earlier work has shown that disruption of neonatal Purkinje cell activity leads to adaptive motor deficits. We are currently working to identify the role of how disrupted Purkinje cell firing during the early neonatal phase results in long-term consequences in connectivity and behavior</p>
+    </div>
+  </div>
+</section>
+
+<section id="neurotech">
+  <div class="splash-header">
+    <div class="splash-block">
+      <h2>Neuroengineering</h2>
+      <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. Some tools that we are currently developing and using in our research include:
+      * Fiber photometry with genetically encoded Ca2+ indicators
+      * Advanced behavioral quantification using the ErasmusLadder
+      * Custom experimental design using microcontrollers and Bonsai
+      * High density mapping of behavior using DeepLabCut
+      * Behavioral Data segmentation using unsupervised machine-learning algorithms
+      * Image data segmentation using deep-learning algorithms
+      * Miniscopes</p>
+    </div>
+  </div>
+</section>

@@ -42,7 +42,7 @@ title: "Research"
   <div class="splash-header">
     <div class="splash-block">
       <h2>Neuroengineering</h2>
-      <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. Some tools that we are currently developing and using in our research include:
+      <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. Some tools that we are currently developing and using in our research include:</p>
       <ul>
       <li>Fiber photometry with genetically encoded Ca2+ indicators</li>
       <li>Advanced behavioral quantification using the ErasmusLadder</li>
@@ -50,7 +50,8 @@ title: "Research"
       <li>High density mapping of behavior using DeepLabCut</li>
       <li>Behavioral Data segmentation using unsupervised machine-learning algorithms</li>
       <li>Image data segmentation using deep-learning algorithms</li>
-      <li>Miniscopes</li></p>
+      <li>Miniscopes</li>
+      </ul>
     </div>
   </div>
 </section>

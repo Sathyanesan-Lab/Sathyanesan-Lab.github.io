@@ -43,13 +43,14 @@ title: "Research"
     <div class="splash-block">
       <h2>Neuroengineering</h2>
       <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. Some tools that we are currently developing and using in our research include:
-      * Fiber photometry with genetically encoded Ca2+ indicators
-      * Advanced behavioral quantification using the ErasmusLadder
-      * Custom experimental design using microcontrollers and Bonsai
-      * High density mapping of behavior using DeepLabCut
-      * Behavioral Data segmentation using unsupervised machine-learning algorithms
-      * Image data segmentation using deep-learning algorithms
-      * Miniscopes</p>
+      <ul>
+      <li>Fiber photometry with genetically encoded Ca2+ indicators</li>
+      <li>Advanced behavioral quantification using the ErasmusLadder</li>
+      <li>Custom experimental design using microcontrollers and Bonsai</li>
+      <li>High density mapping of behavior using DeepLabCut</li>
+      <li>Behavioral Data segmentation using unsupervised machine-learning algorithms</li>
+      <li>Image data segmentation using deep-learning algorithms</li>
+      <li>Miniscopes</li></p>
     </div>
   </div>
 </section>

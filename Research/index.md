@@ -52,9 +52,7 @@ title: "Research"
       <li>Image data segmentation using deep-learning algorithms</li>
       <li>Miniscopes</li>
       </ul>
-    </div>
-    <div class="splash-image">
-      <img src="FPanim.gif" />
-    </div>
+    </div>    
   </div>
 </section>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTvhfUoeraE" frameborder="0"> </iframe>

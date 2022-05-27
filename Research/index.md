@@ -53,5 +53,8 @@ title: "Research"
       <li>Miniscopes</li>
       </ul>
     </div>
+    <div class="splash-image">
+      <img src="FPanim.gif" />
+    </div>
   </div>
 </section>

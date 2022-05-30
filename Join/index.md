@@ -6,4 +6,4 @@ For international applicants: graduate engineering degree (B.E./B.Tech) in bio-r
 
 Interested candidates may submit their detailed CV with subject “PhD position” to Dr. Aaron Sathyanesan via email to aaron.sathyanesan@gmail.com. Informal review of candidates will begin immediately.
 
-<p> <img src="UD campus.png" /> </p>
+<p> <img src="https://d33wubrfki0l68.cloudfront.net/2dfbde177b02ab1c219fa6c376baff1b99668e4e/e9a67/static/3d0c895d3ff741bc8bfe27ba56de4167/cc918/immaculate-conception-chapel-dayton_lbtdn9.max-2880x1800.jpg" /> </p>

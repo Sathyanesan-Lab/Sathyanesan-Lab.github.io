@@ -1,4 +1,4 @@
-Applications are invited for prospective PhD candidates to join the lab of incoming tenure-track assistant professor Dr. Aaron Sathyanesan in the Department of Biology at the University of Dayton (UD), Ohio, USA. Graduates in engineering fields with research interests in brain circuits, as well as biomedical scientists with an interest in using engineering tools to answer questions in neuroscience are encouraged to apply.
+Applications are invited for prospective PhD candidates to join the lab of incoming tenure-track assistant professor Dr. Aaron Sathyanesan in the Department of Biology at the University of Dayton (UD), Ohio, USA. Graduates in biology and engineering fields with research interests in brain circuits, as well as biomedical scientists with an interest in using engineering tools to answer questions in neuroscience are encouraged to apply.
 
 Successful applicants will have the opportunity to work in a highly collaborative environment within the dept. of biology as well as with departments within the school of engineering at UD, which is a top-ranking engineering school in the US.
 

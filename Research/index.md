@@ -42,14 +42,14 @@ title: "Research"
   <div class="splash-header">
     <div class="splash-block">
       <h2>Neuroengineering</h2>
-      <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. We accomplish this by using and contributing to <i>open science</i> initiatives including [open behavior](https://edspace.american.edu/openbehavior/) and [open neuroscience](https://open-neuroscience.com/). Some tools that we are currently developing and using in our research include:</p>
+      <p>We actively develop and integrate neuroengineering and neurotechnology tools to answer the questions we are most interested in. We accomplish this by using and contributing to <i>open science</i> initiatives including <a href="https://edspace.american.edu/openbehavior/">open behavior</a> and <a href = "https://open-neuroscience.com/">open neuroscience</a>. Some tools that we are currently developing and using in our research include:</p>
       <ul>
       <li>Fiber photometry with genetically encoded Ca<sup>2+</sup> indicators</li>
       <li>Advanced behavioral quantification using the ErasmusLadder</li>
-      <li>Custom instrument and workflow design using open hardware and [Bonsai](https://bonsai-rx.org/)</li>
-      <li>High density mapping of behavior using [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)</li>
-      <li>Behavioral Data segmentation using unsupervised machine-learning algorithms such as [B-SOID](https://bsoid.org/)</li>
-      <li>Image data segmentation pipelines incorporating deep-learning tools such as [DeepMIB](http://mib.helsinki.fi/help/main2/ug_gui_menu_tools_deeplearning.html) and [NocodeSeg](https://github.com/andreped/NoCodeSeg)</li>
+      <li>Custom instrument and workflow design using open hardware and <a href="https://bonsai-rx.org/">Bonsai</a></li>
+      <li>High density mapping of behavior using <a href="http://www.mackenziemathislab.org/deeplabcut">DeepLabCut</a></li>
+      <li>Behavioral Data segmentation using unsupervised machine-learning algorithms such as <a href="https://bsoid.org/">B-SOID</a></li>
+      <li>Image data segmentation pipelines incorporating deep-learning tools such as <a href="http://mib.helsinki.fi/help/main2/ug_gui_menu_tools_deeplearning.html">DeepMIB</a> and <a href="https://github.com/andreped/NoCodeSeg">NocodeSeg</a></li>
       <li>Miniscopes</li>
       </ul>
     </div>    

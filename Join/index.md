@@ -4,7 +4,7 @@ Successful applicants will have the opportunity to work in a highly collaborativ
 
 For international applicants: graduate engineering degree (B.E./B.Tech) in bio-related majors or post-graduate (M.Sc/M.Tech) in biotechnology or neuroscience related areas are encouraged to apply.
 
-Interested candidates may submit their detailed CV with subject “PhD position” to Dr. Aaron Sathyanesan via email to aaron.sathyanesan@gmail.com. Informal review of candidates will begin immediately.
+Interested candidates may submit their detailed CV, one-page statement of research interests, unofficial transcripts, and contact information for three references to Dr. Aaron Sathyanesan via email to aaron.sathyanesan@gmail.com, with subject “PhD position”. Informal review of candidates will begin immediately.
 
 GRE scores will be required for all applicants for the formal application process. TOEFL scores will be required as applicable for international applicants.
 

@@ -9,7 +9,7 @@ title: "Research"
       <p>Conversely: Altered cerebellar development due to early injury or genetic aberrations lead to atypical motor and non-motor behavior at later stages.</p>
     </div>
     <div class="splash-image">
-      <img src="theme-full.svg" />
+      <img src="theme-full-1.svg" />
     </div>
   </div>
 </section>

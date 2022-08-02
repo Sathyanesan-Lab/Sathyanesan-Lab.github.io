@@ -24,7 +24,7 @@ title: "Lab Members"
     </div>
     <div class="splash-block">
       <h2>Amelia Moore</h2>
-      <p>Amelia just completed her B.S. in Biology at UD while also playing as a student-athlete on the UD Women's Volleyball team. Amelia has always had a passion to pursue a career in the medical field and plans to attend medical or veterinary school. Amelia is currently pursuing an M.S. in Biology and looks forward to exploring and making research discoveries in neuroscience, particularly to help patients affected by Down syndrome.</p>
+      <p>Amelia just completed her B.S. in Biology at UD while also playing as a student-athlete on the UD Women's Volleyball team. Amelia has always had a passion to pursue a career in the medical field and plans to attend medical or veterinary school. Amelia is currently pursuing an M.S. in Biology at UD and looks forward to exploring and making research discoveries in neuroscience, particularly to help patients affected by Down syndrome.</p>
     </div>
   </div>
 </section>

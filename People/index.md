@@ -15,3 +15,16 @@ title: "Lab Members"
     </div>
   </div>
 </section>
+<section id="Students">
+  <div class="splash-header">
+    <div class="splash-image">
+      <div style="float: left; margin-right 1em;">
+        <img src="amoore-1.png" />
+      </div>
+    </div>
+    <div class="splash-block">
+      <h2>Amelia Moore</h2>
+      <p>Amelia just completed her B.S. in Biology at UD while also playing as a student-athlete on the UD Women's Volleyball team. Amelia has always had a passion to pursue a career in the medical field and plans to attend medical or veterinary school. Amelia is currently pursuing an M.S. in Biology and looks forward to exploring and making research discoveries in neuroscience, particularly to help patients affected by Down syndrome.</p>
+    </div>
+  </div>
+</section>

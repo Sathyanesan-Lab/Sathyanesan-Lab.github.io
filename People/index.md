@@ -45,7 +45,7 @@ title: "Lab Members"
   <div class="splash-header">
     <div class="splash-image">
       <div style="float: left; margin-left 1em;">
-        <img src="samaria-2.png" />
+        <img src="samaria-3.png" />
       </div>
     </div>
     <div class="splash-block">

@@ -44,7 +44,7 @@ title: "Lab Members"
 <section id="Students">
   <div class="splash-header">
     <div class="splash-image">
-      <div style="float: left; margin-left 1em;">
+      <div style="float: left; margin-right 1em;">
         <img src="samaria-4.png" />
       </div>
     </div>

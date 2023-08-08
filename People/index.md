@@ -19,6 +19,19 @@ title: "Lab Members"
   <div class="splash-header">
     <div class="splash-image">
       <div style="float: left; margin-right 1em;">
+        <img src="abbas.png" />
+      </div>
+    </div>
+    <div class="splash-block">
+      <h2>Mir Abbas Raza, M.Tech</h2>
+      <p>Abbas completed his bachelors and masters in technology majoring in biotechnology from Sathyabama Institute of Science and Technology, Chennai, India. He is currently pursuing a PhD in Biology in the Sathyanesan Lab at UD. Abbas is fascinated by the neuronal connections that make up the nervous system and translate into complex behaviours. His current focus is to explore the cerebellum and its connections in order to better understand its role in Down Syndrome. When not a researcher, he is a <i>self-proclaimed poet</i>, a loving uncle and a geek about all things Marvel and DC.</p>
+    </div>
+  </div>
+</section>
+<section id="Students">
+  <div class="splash-header">
+    <div class="splash-image">
+      <div style="float: left; margin-right 1em;">
         <img src="amoore-1.png" />
       </div>
     </div>

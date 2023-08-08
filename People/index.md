@@ -24,8 +24,7 @@ title: "Lab Members"
     </div>
     <div class="splash-block">
       <h2>Mir Abbas Raza, M.Tech</h2>
-      <p>Abbas completed his bachelors and masters in technology majoring in biotechnology from Sathyabama Institute of Science and Technology, Chennai, India. He is currently pursuing a PhD in Biology in the Sathyanesan Lab at UD. Abbas is fascinated by the neuronal connections that make up the nervous system and translate into complex behaviours. His current focus is to explore the cerebellum and its connections in order to better understand its role in Down Syndrome. When not a researcher, he is a [self-proclaimed poet][website_link], a loving uncle and a geek about all things Marvel and DC.</p>
-      [website_link]: https://www.amazon.com/Serenity-Ink-Mir-Abbas-Raza/dp/1948321084/ref=sr_1_1?crid=1D39H5T1NS7AV&keywords=serenity+in+ink+raza&qid=1691472798&sprefix=serenity+in+ink+raza%2Caps%2C199&sr=8-1
+      <p>Abbas completed his bachelors and masters in technology majoring in biotechnology from Sathyabama Institute of Science and Technology, Chennai, India. He is currently pursuing a PhD in Biology in the Sathyanesan Lab at UD. Abbas is fascinated by the neuronal connections that make up the nervous system and translate into complex behaviours. His current focus is to explore the cerebellum and its connections in order to better understand its role in Down Syndrome. When not a researcher, he is a [self-proclaimed poet](https://www.amazon.com/Serenity-Ink-Mir-Abbas-Raza/dp/1948321084/ref=sr_1_1?crid=1D39H5T1NS7AV&keywords=serenity+in+ink+raza&qid=1691472798&sprefix=serenity+in+ink+raza%2Caps%2C199&sr=8-1), a loving uncle and a geek about all things Marvel and DC.</p>
     </div>
   </div>
 </section>

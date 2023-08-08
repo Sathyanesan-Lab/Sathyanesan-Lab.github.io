@@ -45,38 +45,12 @@ title: "Lab Members"
   <div class="splash-header">
     <div class="splash-image">
       <div style="float: left; margin-right 1em;">
-        <img src="samaria-4.png" />
-      </div>
-    </div>
-    <div class="splash-block">
-      <h2>Samaria Brown</h2>
-      <p>Samaria aims to join medical school pursuing the field of Neurology. Her current interest involves making research discoveries in neuroscience, specifically toward helping those affected by ASD and chromosomal disorders. Her hobbies are hiking and working out.</p>
-    </div>
-  </div>
-</section>
-<section id="Students">
-  <div class="splash-header">
-    <div class="splash-image">
-      <div style="float: left; margin-right 1em;">
         <img src="abbey.png" />
       </div>
     </div>
     <div class="splash-block">
       <h2>Abigayle Hahn</h2>
       <p>Abbey is in her second year as a Pre-Medical major at UD. She hopes to pursue a medical career in the field of fetal medicine. She is excited to investigate different neurodevelopmental disorders and getting to play with some mice! In her free time, you can find her singing karaoke with the residents of the nursing home she works at back in Pittsburgh - the best audience is one who can't hear your terrible singing voice!</p>
-    </div>
-  </div>
-</section>
-<section id="Students">
-  <div class="splash-header">
-    <div class="splash-image">
-      <div style="float: left; margin-right 1em;">
-        <img src="alaina-2.png" />
-      </div>
-    </div>
-    <div class="splash-block">
-      <h2>Alaina Sharp</h2>
-      <p>Alaina is a third-year student at UD where she is pursuing a BS degree in Biology and a minor in Neuroscience. After graduation, she intends to work in the medical field, likely going to medical or physical therapy school. She looks forward to using her fascination with neuroscience to contribute to research involving the cerebellum.</p>
     </div>
   </div>
 </section>

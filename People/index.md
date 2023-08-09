@@ -4,7 +4,7 @@ title: "Lab Members"
 <section id="principal investigator">
   <div class="splash-header">
     <div class="splash-image">
-      <div style="float: left; margin-right 1em; text-indent 2em">
+      <div style="float: left; margin-right 1em; text-indent -1em">
         <img src="asathyanesan-5.png" />
       </div>
     </div>

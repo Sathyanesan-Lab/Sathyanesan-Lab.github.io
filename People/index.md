@@ -5,7 +5,7 @@ title: "Lab Members"
   <div class="splash-header">
     <div class="splash-image">
       <div style="float: left; margin-right 1em">
-        <img src="asathyanesan-5.png"  />
+        <img src="asathyanesan-5.png" class="img_people"/>
       </div>
     </div>
     <div class="splash-block">

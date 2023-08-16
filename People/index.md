@@ -24,6 +24,7 @@ title: "Lab Members"
     </div>
     <div class="splash-block">
       <h2>Mir Abbas Raza, M.Tech</h2>
+      <h3>PhD Student</h3>
       <p>Abbas completed his bachelors and masters in technology majoring in biotechnology from Sathyabama Institute of Science and Technology, Chennai, India. He is currently pursuing a PhD in Biology in the Sathyanesan Lab at UD. Abbas is fascinated by the neuronal connections that make up the nervous system and how they enable complex behaviours. His current focus is to explore the cerebellum and its connections in order to better understand its role in Down Syndrome. When not doing research, he is a <a href="https://www.amazon.com/Serenity-Ink-Mir-Abbas-Raza/dp/1948321084/ref=sr_1_1?crid=1D39H5T1NS7AV&keywords=serenity+in+ink+raza&qid=1691472798&sprefix=serenity+in+ink+raza%2Caps%2C199&sr=8-1">self-proclaimed poet</a>, a loving uncle and a geek about all things Marvel and DC.</p>
     </div>
   </div>
@@ -37,6 +38,7 @@ title: "Lab Members"
     </div>
     <div class="splash-block">
       <h2>Amelia Moore</h2>
+      <h3>MS Student</h3>
       <p>Amelia recently completed her B.S. in Biology at UD while also playing as a student-athlete on the UD Women's Volleyball team. She has always had a passion to pursue a career in the medical field and plans to attend medical or veterinary school. Amelia is currently pursuing an M.S. in Biology at UD and looks forward to exploring and making research discoveries in neuroscience, particularly to help patients affected by Down syndrome.&emsp;&emsp;&emsp;&emsp;
       &emsp;
       </p>
@@ -52,6 +54,7 @@ title: "Lab Members"
     </div>
     <div class="splash-block">
       <h2>Abigayle Hahn</h2>
+      <h3>Undergraduate</h3>
       <p>Abbey is in her second year as a Pre-Medical major at UD. She hopes to pursue a medical career in the field of fetal medicine. She is excited to investigate different neurodevelopmental disorders and getting to play with some mice! In her free time, you can find her singing karaoke with the residents of the nursing home she works at back in Pittsburgh - the best audience is one who can't hear your terrible singing voice!</p>
     </div>
   </div>

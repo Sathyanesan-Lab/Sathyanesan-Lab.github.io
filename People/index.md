@@ -10,7 +10,7 @@ title: "Lab Members"
     </div>
       <div class="splash-block">
           <h2>Aaron Sathyanesan, PhD</h2>
-          <p> Aaron did his undergrad in Bioengineering at Bharathidasan University, India, followed by a junior research fellowship in biophysics at the AU-KBC Resarch Center in Chennai, India. He then pursued his PhD with Dr. Weihong Lin at UMBC. He completed his postdoctoral fellowship with Dr. Vittorio Gallo at Children's National, Washington DC, followed by a research faculty position also at Children's National. Aaron joined UD as a tenure-track assitant professor in the department of biology in 2022. He has a joint appointment in the department of electrical and computer engineering in the school of engineering at UD.</p>
+          <p> Aaron did his undergrad in Bioengineering at Bharathidasan University, India, followed by a junior research fellowship in biophysics at the AU-KBC Resarch Center in Chennai, India. He then pursued his PhD with Dr. Weihong Lin at UMBC. He completed his postdoctoral fellowship with Dr. Vittorio Gallo at Children's National, Washington DC, followed by a research faculty position also at Children's National. Aaron joined UD as a tenure-track assitant professor in the department of biology in 2022. He has a joint appointment in the department of electrical and computer engineering in the school of engineering.</p>
           <p>Also, Tolkien Supernerd.</p>
       </div>
   </div>

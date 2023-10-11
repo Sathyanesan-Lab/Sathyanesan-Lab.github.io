@@ -10,7 +10,7 @@ title: "Lab Members"
     </div>
       <div class="splash-block">
           <h2>Aaron Sathyanesan, PhD</h2>
-          <p> Aaron did his undergrad in Bioengineering at Bharathidasan University, India, followed by a junior research fellowship in biophysics at the AU-KBC Resarch Center in Chennai, India. He then moved to the US to complete his PhD in neuroscience at UMBC with Dr. Weihong Lin. He completed his postdoctoral fellowship with Dr. Vittorio Gallo at the Children's National Research Institute in Washington DC, followed by a research faculty position also at Children's National. Aaron joined UD as a tenure-track assitant professor in 2022. </p>
+          <p> Aaron did his undergrad in Bioengineering at Bharathidasan University, India, followed by a junior research fellowship in biophysics at the AU-KBC Resarch Center in Chennai, India. He then moved to the US to complete his PhD in neuroscience at UMBC with Dr. Weihong Lin. He completed his postdoctoral fellowship with Dr. Vittorio Gallo at the Children's National Research Institute in Washington DC, followed by a research faculty position also at Children's National. Aaron joined UD as a tenure-track assitant professor in the department of biology in 2022. He has a joint appointment in the department of electrical and computer engineering in the school of engineering at UD.</p>
           <p>Also, Tolkien Supernerd.</p>
       </div>
   </div>
@@ -56,6 +56,20 @@ title: "Lab Members"
       <h2>Abigayle Hahn</h2>
       <h3>Undergraduate</h3>
       <p>Abbey is in her second year as a Pre-Medical major at UD. She hopes to pursue a medical career in the field of fetal medicine. She is excited to investigate different neurodevelopmental disorders and getting to play with some mice! In her free time, you can find her singing karaoke with the residents of the nursing home she works at back in Pittsburgh - the best audience is one who can't hear your terrible singing voice!</p>
+    </div>
+  </div>
+</section>
+<section id="Students">
+  <div class="splash-header">
+    <div class="splash-image">
+      <div style="float: left; margin-right 1em;">
+        <img src="alaina.png" />
+      </div>
+    </div>
+    <div class="splash-block">
+      <h2>Alaina Sharp</h2>
+      <h3>Undergraduate</h3>
+      <p>Alaina is a third-year student at UD where she is pursuing a BS degree in Biology and a minor in Neuroscience. After graduation, she intends to work in the medical field, likely going to medical or physical therapy school. She looks forward to using her fascination with neuroscience to contribute to research involving the cerebellum.</p>
     </div>
   </div>
 </section>

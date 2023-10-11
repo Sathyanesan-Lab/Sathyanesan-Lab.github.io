@@ -55,7 +55,10 @@ title: "Lab Members"
     <div class="splash-block">
       <h2>Abigayle Hahn</h2>
       <h3>Undergraduate</h3>
-      <p>Abbey is in her second year as a Pre-Medical major at UD. She hopes to pursue a medical career in the field of fetal medicine. She is excited to investigate different neurodevelopmental disorders and getting to play with some mice! In her free time, you can find her singing karaoke with the residents of the nursing home she works at back in Pittsburgh - the best audience is one who can't hear your terrible singing voice!</p>
+      <p>Abbey is in her second year as a Pre-Medical major at UD. She hopes to pursue a medical career in the field of fetal medicine. She is excited to investigate different neurodevelopmental disorders and getting to play with some mice! In her free time, you can find her singing karaoke with the residents of the nursing home she works at back in Pittsburgh - the best audience is one who can't hear your terrible singing voice!&emsp;&emsp;&emsp;&emsp;
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+      &emsp;&emsp;</p>
     </div>
   </div>
 </section>

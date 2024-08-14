@@ -2,10 +2,10 @@
 
 <sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
 
-Vidva R, **Raza MA<sup>1</sup>, Prabhkaran J<sup>2</sup>, Sheikh A<sup>1</sup>, Sharp A<sup>2</sup>**, Ott H, **Moore A<sup>1</sup>, Fleisher C<sup>2</sup>**, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2024) MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing, *bioR*<i>&chi;</i>*iv*
+Vidva R, **Raza MA <sup>1</sup>, Prabhkaran J <sup>2</sup>, Sheikh A <sup>1</sup>, Sharp A <sup>2</sup>**, Ott H, **Moore A <sup>1</sup>, Fleisher C <sup>2</sup>**, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2024) MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing, *bioR*<i>&chi;</i>*iv*
 [Link](https://doi.org/10.1101/2024.08.10.607395) [PDF](https://www.biorxiv.org/content/10.1101/2024.08.10.607395v1.full.pdf)
 
-Mishra I, Feng B, Basu B, Brown AM, Kim LH, Lin T, **Raza MA<sup>1</sup>, Moore A<sup>1</sup>, Hahn A<sup>2</sup>, Bailey S<sup>2</sup>, Sharp A<sup>2</sup>**, Bournat JC, Poulton C, Kim B, Langsner A, **Sathyanesan A**, Sillitoe RV, He Y, Chopra AR (2022) The cerebellum modulates thirst, *Nature Neuroscience*
+Mishra I, Feng B, Basu B, Brown AM, Kim LH, Lin T, **Raza MA <sup>1</sup>, Moore A <sup>1</sup>, Hahn A <sup>2</sup>, Bailey S <sup>2</sup>, Sharp A <sup>2</sup>**, Bournat JC, Poulton C, Kim B, Langsner A, **Sathyanesan A**, Sillitoe RV, He Y, Chopra AR (2022) The cerebellum modulates thirst, *Nature Neuroscience*
 [Link](https://doi.org/10.1038/s41593-024-01700-9) [PDF](https://rdcu.be/dNAt2)
 
 Kratimenos P\*, Vij A, Vidva R, Koutroulis I, Delivoria-Papadopoulos M, Gallo V, & **Sathyanesan A**\* (2022) Computational Analysis of Cortical Neuronal Excitotoxicity in a Large Animal Model of Neonatal Brain Injury, *Journal of Neurodevelopmental Disorders* (\*Corresponding author)

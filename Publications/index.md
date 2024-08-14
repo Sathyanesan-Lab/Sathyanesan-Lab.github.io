@@ -1,6 +1,9 @@
-<h2>Peer-reviewed research papers</h2>
+<h2>Preprints and Peer-reviewed research papers</h2>
 
-<sup>1</sup> UD grad student; <sup>2</sup> UD undergrad
+<sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
+
+Vidva R, **Raza MA<sup>1</sup>, Prabhkaran J<sup>2</sup>, Sheikh A<sup>1</sup>, Sharp A<sup>1</sup>**, Ott H, **Moore A<sup>1</sup>, Fleisher C<sup>2</sup>**, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2024) MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing, *bioR*<i>&chi;</i>*iv*
+[Link](https://doi.org/10.1101/2024.08.10.607395) [PDF](https://www.biorxiv.org/content/10.1101/2024.08.10.607395v1.full.pdf)
 
 Mishra I, Feng B, Basu B, Brown AM, Kim LH, Lin T, **Raza MA<sup>1</sup>, Moore A<sup>1</sup>, Hahn A<sup>2</sup>, Bailey S<sup>2</sup>, Sharp A<sup>2</sup>**, Bournat JC, Poulton C, Kim B, Langsner A, **Sathyanesan A**, Sillitoe RV, He Y, Chopra AR (2022) The cerebellum modulates thirst, *Nature Neuroscience*
 [Link](https://doi.org/10.1038/s41593-024-01700-9) [PDF](https://rdcu.be/dNAt2)
@@ -26,3 +29,5 @@ Vacher CM, O’Reilly JJ, Salzbank J, Lacaille H, Bakalar D, Sebaoui-Illoul S, L
 [Link](https://doi.org/10.1016/j.nlm.2018.04.016) [PDF](https://drive.google.com/file/d/1rcEFpKyk136liqW7QBrkRDdpCcD_XZ7t/view?usp=sharing)
 
 For a complete list of publications: [Google Scholar](https://scholar.google.com/citations?user=j4aAH58AAAAJ&hl=en&oi=ao)
+
+[def]: https://doi.org/10.1101/2024.08.10.607395

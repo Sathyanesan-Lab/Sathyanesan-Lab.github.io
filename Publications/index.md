@@ -23,7 +23,10 @@ Vacher CM, O’Reilly JJ, Salzbank J, Lacaille H, Bakalar D, Sebaoui-Illoul S, L
 **Sathyanesan A**\*, Kundu S\*, Abbah J, Gallo V (2018) Neonatal brain injury causes cerebellar learning deficits and Purkinje cell dysfunction, *Nature Communications* (\*Co-first authorship)
 [Link](https://www.nature.com/articles/s41467-018-05656-w) [PDF](https://www.nature.com/articles/s41467-018-05656-w.pdf) [F1000 Faculty Opinions Recommendation](https://doi.org/10.3410/f.733803457.793554846)
 
-<h2>Peer-reviewed review papers</h2>
+<h2>Peer-reviewed review papers and editorials</h2>
+
+Tractenberg SG, Reinhard SM, **Sathyanesan A**\* (2024) Neurodevelopment: parental influences, in utero exposures, and genetics (Editorial), *Frontiers in Neuroscience* (\*Corresponding author)
+[Link](https://doi.org/10.3389/fnins.2023.1331453) [PDF](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1331453/pdf)
 
 **Sathyanesan A**\*, Zhou J, Scafidi J, Heck DH, Sillitoe RV, Gallo V\* (2019) Emerging connections between cerebellar development, behavior, and complex brain disorders, *Nature Reviews Neuroscience* (\*Corresponding author)
 [Link](https://www.nature.com/articles/s41583-019-0152-2) [PDF](https://drive.google.com/file/d/16-6YUzN_p6NwNCBC_mLdFOC-CKtMaTyS/view?usp=sharing)

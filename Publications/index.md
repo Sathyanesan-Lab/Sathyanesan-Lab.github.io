@@ -1,12 +1,9 @@
-<h2>Preprints and Peer-reviewed research papers</h2>
+<h2>Peer-reviewed research papers</h2>
 
 <sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
 
-Shen Y, Thomas J, Chen X, Zelidon J, **Hahn A <sup>2</sup>**, Zhang P, **Sathyanesan A**, Gu B (2025) Behavior decoding delineates seizure microfeatures and associated sudden death risks in mice, *bioR*<i>&chi;</i>*iv*
-[Link](https://doi.org/10.1101/2025.01.13.632867) [PDF](https://www.biorxiv.org/content/10.1101/2025.01.13.632867v1.full.pdf)
-
-Vidva R, **Raza MA <sup>1</sup>, Prabhkaran J <sup>2</sup>, Sheikh A <sup>1</sup>, Sharp A <sup>2</sup>**, Ott H, **Moore A <sup>1</sup>, Fleisher C <sup>2</sup>**, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2024) MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing, *bioR*<i>&chi;</i>*iv*
-[Link](https://doi.org/10.1101/2024.08.10.607395) [PDF](https://www.biorxiv.org/content/10.1101/2024.08.10.607395v1.full.pdf)
+Vidva R, **Raza MA <sup>1</sup>, Prabhkaran J <sup>2</sup>, Sheikh A <sup>1</sup>, Sharp A <sup>2</sup>**, Ott H, **Moore A <sup>1</sup>, Fleisher C <sup>2</sup>**, Netherton H, Goldstein E, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (accepted) MyVivarium: A cloud-based lab animal colony management application with realtime ambient sensing, *Computational and Structural Biotechnology Journal*
+[bioRXiv](https://doi.org/10.1101/2024.08.10.607395)
 
 Mishra I, Feng B, Basu B, Brown AM, Kim LH, Lin T, **Raza MA <sup>1</sup>, Moore A <sup>1</sup>, Hahn A <sup>2</sup>, Bailey S <sup>2</sup>, Sharp A <sup>2</sup>**, Bournat JC, Poulton C, Kim B, Langsner A, **Sathyanesan A**, Sillitoe RV, He Y, Chopra AR (2024) The cerebellum modulates thirst, *Nature Neuroscience*
 [Link](https://doi.org/10.1038/s41593-024-01700-9) [PDF](https://rdcu.be/dNAt2)
@@ -22,6 +19,16 @@ Vacher CM, O’Reilly JJ, Salzbank J, Lacaille H, Bakalar D, Sebaoui-Illoul S, L
 
 **Sathyanesan A**\*, Kundu S\*, Abbah J, Gallo V (2018) Neonatal brain injury causes cerebellar learning deficits and Purkinje cell dysfunction, *Nature Communications* (\*Co-first authorship)
 [Link](https://www.nature.com/articles/s41467-018-05656-w) [PDF](https://www.nature.com/articles/s41467-018-05656-w.pdf) [F1000 Faculty Opinions Recommendation](https://doi.org/10.3410/f.733803457.793554846)
+
+<h2>Preprints</h2>
+
+<sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
+
+Shen Y, Thomas J, Chen X, Zelidon J, **Hahn A <sup>2</sup>**, Zhang P, **Sathyanesan A**, Gu B (2025) Behavior decoding delineates seizure microfeatures and associated sudden death risks in mice, *bioR*<i>&chi;</i>*iv*
+[Link](https://doi.org/10.1101/2025.01.13.632867) [PDF](https://www.biorxiv.org/content/10.1101/2025.01.13.632867v1.full.pdf)
+
+Vidva R, **Raza MA <sup>1</sup>, Prabhkaran J <sup>2</sup>, Sheikh A <sup>1</sup>, Sharp A <sup>2</sup>**, Ott H, **Moore A <sup>1</sup>, Fleisher C <sup>2</sup>**, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2024) MyVivarium: A cloud-based lab animal colony management application with near-realtime ambient sensing, *bioR*<i>&chi;</i>*iv*
+[Link](https://doi.org/10.1101/2024.08.10.607395) [PDF](https://www.biorxiv.org/content/10.1101/2024.08.10.607395v1.full.pdf)
 
 <h2>Peer-reviewed review papers and editorials</h2>
 

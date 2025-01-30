@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Sathyanesan Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Aaron Sathyanesan"
+name                     : "Sathyanesan Lab"
 description              : "Department of Biology, University of Dayton"
 url                      : "https://sathyanesan-lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

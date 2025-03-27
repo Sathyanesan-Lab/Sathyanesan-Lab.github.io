@@ -7,7 +7,7 @@
     <style>
         body { font-family: Arial, sans-serif; padding: 20px; }
         input, button { margin: 5px 0; padding: 8px; }
-        .results { margin-top: 10px; list-style: none; padding: 0; }
+        .results { margin-top: 10px; list-style: none; padding: 0; max-height: 200px; overflow-y: auto; }
         li:hover { background-color: #f0f0f0; cursor: pointer; }
         .selected-keywords { margin-top: 10px; }
         .selected-keywords span {
@@ -25,12 +25,12 @@
     <input type="text" id="name" placeholder="Enter your name"><br>
 
     <label for="expertise">Expertise (MeSH Keywords):</label>
-    <input type="text" id="expertise" placeholder="Search expertise..." onkeyup="searchMeSH(this.value, 'expertiseResults')" onkeydown="handleKeyDown(event, 'expertise')" autocomplete="off">
+    <input type="text" id="expertise" placeholder="Search expertise..." onkeyup="searchMeSH(this.value, 'expertiseResults')" autocomplete="off">
     <ul id="expertiseResults" class="results"></ul>
     <div id="selectedExpertise" class="selected-keywords"></div>
 
     <label for="collab">Collaboration Resource (MeSH or Custom):</label>
-    <input type="text" id="collab" placeholder="Search or add custom..." onkeyup="searchMeSH(this.value, 'collabResults')" onkeydown="handleKeyDown(event, 'collab')" autocomplete="off">
+    <input type="text" id="collab" placeholder="Search or add custom..." onkeyup="searchMeSH(this.value, 'collabResults')" autocomplete="off">
     <button onclick="addCustomKeyword()">Add Custom</button>
     <ul id="collabResults" class="results"></ul>
     <div id="selectedCollab" class="selected-keywords"></div>
@@ -60,39 +60,26 @@
         let selectedExpertise = [];
         let selectedCollab = [];
 
-        // Function to search MeSH terms and display results
+        // Function to search MeSH terms and display results live
         function searchMeSH(query, resultId) {
             const results = document.getElementById(resultId);
-            results.innerHTML = "";
-            if (query.length < 2) return; // Don't search if the query is too short
+            results.innerHTML = "";  // Clear previous results
 
-            // Filter MeSH terms
+            if (query.length < 2) return; // Don't search if query is too short
+
+            // Filter MeSH terms that contain the query string
             const matches = meshKeywords.filter(term => term.toLowerCase().includes(query.toLowerCase()));
 
-            // Display filtered terms
+            // Display the filtered matches as list items
             matches.forEach(term => {
                 const li = document.createElement("li");
                 li.textContent = term;
-                li.onclick = () => selectKeyword(term, resultId); // Select term on click
+                li.onclick = () => selectKeyword(term, resultId);  // Select term when clicked
                 results.appendChild(li);
             });
         }
 
-        // Function to handle Enter key and add keyword to list
-        function handleKeyDown(event, section) {
-            if (event.key === "Enter") {
-                const input = document.getElementById(section);
-                const query = input.value.trim();
-
-                // Only select a term if it exists in the MeSH keywords or is a custom term
-                if (query && meshKeywords.includes(query) && !section.includes(query)) {
-                    selectKeyword(query, section === "expertise" ? "expertiseResults" : "collabResults");
-                    input.value = "";  // Clear input after selection
-                }
-            }
-        }
-
-        // Function to select a keyword from search results
+        // Function to handle keyword selection (via click or Enter key)
         function selectKeyword(keyword, resultId) {
             if (resultId === 'expertiseResults' && !selectedExpertise.includes(keyword)) {
                 selectedExpertise.push(keyword);
@@ -101,17 +88,35 @@
                 selectedCollab.push(keyword);
                 updateSelectedKeywords('collab');
             }
-            document.getElementById(resultId).innerHTML = "";  // Clear results after selection
+
+            // Clear results after selection
+            document.getElementById(resultId).innerHTML = "";
         }
 
-        // Update selected keywords list (Expertise or Collaboration)
+        // Function to handle the Enter key for adding keywords
+        function handleKeyDown(event, section) {
+            if (event.key === "Enter") {
+                const input = document.getElementById(section);
+                const query = input.value.trim();
+
+                if (query) {
+                    // Only add keyword if it's valid (either MeSH term or custom term for Collaboration)
+                    if (meshKeywords.includes(query) || section === 'collab') {
+                        selectKeyword(query, section === "expertise" ? "expertiseResults" : "collabResults");
+                        input.value = "";  // Clear the input field
+                    }
+                }
+            }
+        }
+
+        // Update the selected keywords display (Expertise or Collaboration)
         function updateSelectedKeywords(section) {
             const selectedContainer = section === 'expertise' ? document.getElementById('selectedExpertise') : document.getElementById('selectedCollab');
             const selectedList = section === 'expertise' ? selectedExpertise : selectedCollab;
             selectedContainer.innerHTML = selectedList.map(keyword => `<span>${keyword}</span>`).join('');
         }
 
-        // Add custom keyword to the Collaboration Resource list
+        // Add custom keyword to Collaboration Resource list
         function addCustomKeyword() {
             const customKeyword = document.getElementById("collab").value;
             if (customKeyword && !selectedCollab.includes(customKeyword)) {

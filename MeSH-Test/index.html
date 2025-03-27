@@ -9,6 +9,14 @@
         input, button { margin: 5px 0; padding: 8px; }
         .results { margin-top: 10px; list-style: none; padding: 0; }
         li:hover { background-color: #f0f0f0; cursor: pointer; }
+        .selected-keywords { margin-top: 10px; }
+        .selected-keywords span {
+            background-color: #4CAF50;
+            color: white;
+            padding: 5px 10px;
+            margin: 2px;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -17,13 +25,15 @@
     <input type="text" id="name" placeholder="Enter your name"><br>
 
     <label for="expertise">Expertise (MeSH Keywords):</label>
-    <input type="text" id="expertise" placeholder="Search expertise..." onkeyup="searchMeSH(this.value, 'expertiseResults')">
+    <input type="text" id="expertise" placeholder="Search expertise..." onkeyup="searchMeSH(this.value, 'expertiseResults')" onkeydown="handleKeyDown(event, 'expertise')">
     <ul id="expertiseResults" class="results"></ul>
+    <div id="selectedExpertise" class="selected-keywords"></div>
 
     <label for="collab">Collaboration Resource (MeSH or Custom):</label>
-    <input type="text" id="collab" placeholder="Search or add custom..." onkeyup="searchMeSH(this.value, 'collabResults')">
+    <input type="text" id="collab" placeholder="Search or add custom..." onkeyup="searchMeSH(this.value, 'collabResults')" onkeydown="handleKeyDown(event, 'collab')">
     <button onclick="addCustomKeyword()">Add Custom</button>
     <ul id="collabResults" class="results"></ul>
+    <div id="selectedCollab" class="selected-keywords"></div>
 
     <button onclick="submitForm()">Submit</button>
 
@@ -47,8 +57,8 @@
         // Initialize the data
         loadMeSH();
 
-        let selectedExpertise = "";
-        let selectedCollab = "";
+        let selectedExpertise = [];
+        let selectedCollab = [];
 
         function searchMeSH(query, resultId) {
             const results = document.getElementById(resultId);
@@ -65,24 +75,58 @@
         }
 
         function selectKeyword(keyword, resultId) {
-            if (resultId === 'expertiseResults') selectedExpertise = keyword;
-            else selectedCollab = keyword;
+            if (resultId === 'expertiseResults' && !selectedExpertise.includes(keyword)) {
+                selectedExpertise.push(keyword);
+                updateSelectedKeywords('expertise');
+            } else if (resultId === 'collabResults' && !selectedCollab.includes(keyword)) {
+                selectedCollab.push(keyword);
+                updateSelectedKeywords('collab');
+            }
             document.getElementById(resultId).innerHTML = "";
+        }
+
+        function handleKeyDown(event, section) {
+            if (event.key === "Enter") {
+                const input = document.getElementById(section);
+                const query = input.value.trim();
+                if (query && !section.includes(query)) {
+                    selectKeyword(query, section === "expertise" ? "expertiseResults" : "collabResults");
+                    input.value = "";  // Clear input after selection
+                }
+            }
+        }
+
+        function updateSelectedKeywords(section) {
+            const selectedContainer = section === 'expertise' ? document.getElementById('selectedExpertise') : document.getElementById('selectedCollab');
+            const selectedList = section === 'expertise' ? selectedExpertise : selectedCollab;
+            selectedContainer.innerHTML = selectedList.map(keyword => `<span>${keyword}</span>`).join('');
         }
 
         function addCustomKeyword() {
             const customKeyword = document.getElementById("collab").value;
-            if (customKeyword) selectedCollab = customKeyword;
+            if (customKeyword && !selectedCollab.includes(customKeyword)) {
+                selectedCollab.push(customKeyword);
+                updateSelectedKeywords('collab');
+            }
         }
 
         function submitForm() {
             const name = document.getElementById("name").value;
-            if (!name || !selectedExpertise || !selectedCollab) {
+            if (!name || selectedExpertise.length === 0 || selectedCollab.length === 0) {
                 alert("Please fill all fields.");
                 return;
             }
-            const entry = `<p><strong>${name}</strong>: Expertise - ${selectedExpertise}, Collaboration - ${selectedCollab}</p>`;
+
+            const expertiseList = selectedExpertise.join(', ');
+            const collabList = selectedCollab.join(', ');
+            const entry = `<p><strong>${name}</strong>: Expertise - ${expertiseList}, Collaboration - ${collabList}</p>`;
             document.getElementById("submittedEntries").innerHTML += entry;
+
+            // Clear selections after submission
+            selectedExpertise = [];
+            selectedCollab = [];
+            updateSelectedKeywords('expertise');
+            updateSelectedKeywords('collab');
         }
     </script>
 </body>

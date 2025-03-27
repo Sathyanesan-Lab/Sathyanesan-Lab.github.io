@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Researcher Expertise Form</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        input, button { margin: 5px 0; padding: 8px; }
+        .results { margin-top: 10px; list-style: none; padding: 0; }
+        li:hover { background-color: #f0f0f0; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h2>Researcher Expertise Form</h2>
+    <label for="name">Name:</label>
+    <input type="text" id="name" placeholder="Enter your name"><br>
+
+    <label for="expertise">Expertise (MeSH Keywords):</label>
+    <input type="text" id="expertise" placeholder="Search expertise..." onkeyup="searchMeSH(this.value, 'expertiseResults')">
+    <ul id="expertiseResults" class="results"></ul>
+
+    <label for="collab">Collaboration Resource (MeSH or Custom):</label>
+    <input type="text" id="collab" placeholder="Search or add custom..." onkeyup="searchMeSH(this.value, 'collabResults')">
+    <button onclick="addCustomKeyword()">Add Custom</button>
+    <ul id="collabResults" class="results"></ul>
+
+    <button onclick="submitForm()">Submit</button>
+
+    <h3>Submitted Entries:</h3>
+    <div id="submittedEntries"></div>
+
+    <script>
+        let meshKeywords = [];
+
+        // Load MeSH terms from the uploaded mesh.json file
+        async function loadMeSH() {
+            try {
+                const response = await fetch("MeSH-Test/mesh.json");  // Correct path to mesh.json
+                if (!response.ok) throw new Error('Failed to load mesh.json');
+                meshKeywords = await response.json();
+            } catch (error) {
+                console.error("Error loading MeSH data:", error);
+            }
+        }
+
+        // Initialize the data
+        loadMeSH();
+
+        let selectedExpertise = "";
+        let selectedCollab = "";
+
+        function searchMeSH(query, resultId) {
+            const results = document.getElementById(resultId);
+            results.innerHTML = "";
+            if (query.length < 2) return;
+
+            const matches = meshKeywords.filter(term => term.toLowerCase().includes(query.toLowerCase()));
+            matches.forEach(term => {
+                const li = document.createElement("li");
+                li.textContent = term;
+                li.onclick = () => selectKeyword(term, resultId);
+                results.appendChild(li);
+            });
+        }
+
+        function selectKeyword(keyword, resultId) {
+            if (resultId === 'expertiseResults') selectedExpertise = keyword;
+            else selectedCollab = keyword;
+            document.getElementById(resultId).innerHTML = "";
+        }
+
+        function addCustomKeyword() {
+            const customKeyword = document.getElementById("collab").value;
+            if (customKeyword) selectedCollab = customKeyword;
+        }
+
+        function submitForm() {
+            const name = document.getElementById("name").value;
+            if (!name || !selectedExpertise || !selectedCollab) {
+                alert("Please fill all fields.");
+                return;
+            }
+            const entry = `<p><strong>${name}</strong>: Expertise - ${selectedExpertise}, Collaboration - ${selectedCollab}</p>`;
+            document.getElementById("submittedEntries").innerHTML += entry;
+        }
+    </script>
+</body>
+</html>

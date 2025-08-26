@@ -2,6 +2,9 @@
 
 <sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
 
+Shen Y, Thomas J, Chen X, Zelidon J, Najeeb M, **Hahn A <sup>2</sup>**, Zhang P, **Sathyanesan A**, Gu B (accepted) Behavior decoding delineates seizure microfeatures and associated sudden death risks in mice, *Annals of Neurology*
+[Link](https://doi.org/10.1101/2025.01.13.632867) [PDF](https://www.biorxiv.org/content/10.1101/2025.01.13.632867v1.full.pdf)
+
 Vidva R, **Raza MA <sup>1</sup>, Prabhkaran J <sup>2</sup>, Sheikh A <sup>1</sup>, Sharp A <sup>2</sup>**, Ott H, **Moore A <sup>1</sup>, Fleisher C <sup>2</sup>**, Netherton H, Goldstein E, Pitychoutis PM, Nguyen TV, **Sathyanesan A** (2025) MyVivarium: A cloud-based lab animal colony management application with realtime ambient sensing, *Computational and Structural Biotechnology Journal*
 [Link](https://doi.org/10.1016/j.csbj.2025.01.025) [PDF](https://www.sciencedirect.com/science/article/pii/S2001037025000261/pdfft?md5=d78a0ce84e51296840cc3a1cc88a9639&pid=1-s2.0-S2001037025000261-main.pdf)
 

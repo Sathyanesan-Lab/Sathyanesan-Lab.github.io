@@ -27,7 +27,7 @@ Vacher CM, O’Reilly JJ, Salzbank J, Lacaille H, Bakalar D, Sebaoui-Illoul S, L
 
 <sup>1</sup> UD grad student; <sup>2</sup> UD undergrad; 
 
-Sanidas G, Simonti G, Ghaemmaghami J, Woyshner K, Wolff N, Byrd C, Triantafyllou M, Lowe C, **Salisbury H<sup>2</sup>**, Goldstein E, **Sathyanesan A**, Vidva R, Koutroulis I, Stein-O’Brien G, Sidiropoulos DN, Gallo V, Kratimenos P (2025) Prematurity Reprograms Cerebellar Development and Long-Term Behavior, *bioR*<i>&chi;</i>*iv*
+Sanidas G, Simonti G, Ghaemmaghami J, Woyshner K, Wolff N, Byrd C, Triantafyllou M, Lowe C, **Salisbury H <sup>2</sup>**, Goldstein E, **Sathyanesan A**, Vidva R, Koutroulis I, Stein-O’Brien G, Sidiropoulos DN, Gallo V, Kratimenos P (2025) Prematurity Reprograms Cerebellar Development and Long-Term Behavior, *bioR*<i>&chi;</i>*iv*
 [Link](https://doi.org/10.1101/2025.07.22.664624) [PDF](https://www.biorxiv.org/content/10.1101/2025.07.22.664624v1.full.pdf)
 
 Shen Y, Thomas J, Chen X, Zelidon J, **Hahn A <sup>2</sup>**, Zhang P, **Sathyanesan A**, Gu B (2025) Behavior decoding delineates seizure microfeatures and associated sudden death risks in mice, *bioR*<i>&chi;</i>*iv*

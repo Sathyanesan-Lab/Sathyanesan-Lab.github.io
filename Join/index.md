@@ -1,5 +1,5 @@
 <h2>Graduate Students</h2>
-<p>We are recruiting! If you are interested in pursuing doctoral research in the Sathyanesan lab, please send an email written by you (not an LLM like ChatGPT) with your CV to asathyanesan1@udayton.edu with the subject line "PhD Position". Students with an engineering or programming background are especially encouraged to apply.</p>
+<p>We are not accepting positions currently! However, if you are interested in future positions and pursuing graduate-level research in the Sathyanesan lab, please send an email written by you (not an LLM like ChatGPT) with your CV to asathyanesan1@udayton.edu with the subject line "PhD Position". Students with an engineering or programming background are especially encouraged to apply.</p>
 <h2>Undergraduates</h2>
 Undergraduates interested in pursuing research in the Sathyanesan lab can please fill out this <a href="https://forms.gle/uD635Sf87Mex8kek8" target="_blank">form</a> and we will get in touch with you. We typically look for a full-time (~40 hr/week) commitment over summers and/or a part-time (10 hr+/week) commitment across 2+ semesters during the school year.  
 <h2> </h2>
